@@ -1,7 +1,9 @@
-# **DISSENT: SITES OF PROTEST IN THE DIGITAL AGE****
+# **DISSENT: SITES OF PROTEST IN THE DIGITAL AGE**
 
-****Freshman Year Seminar (SEMN-101-01)****
-****Syllabus, Fall Quarter 2019**MWF 11:55AM - 01:10PM, Dewing Hall, Room 304
+## ****Freshman Year Seminar (SEMN-101-01)****
+## ****Syllabus, Fall Quarter 2019**
+
+MWF 11:55AM - 01:10PM, Dewing Hall, Room 304
 Professor: Dimitris C. Papadopoulos
 Office: Olds Upton Building 305E
 Office hours: Friday, 2-4 pm and by appointment 
