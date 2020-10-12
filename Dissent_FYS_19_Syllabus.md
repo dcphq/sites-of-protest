@@ -1,7 +1,7 @@
 # **DISSENT: SITES OF PROTEST IN THE DIGITAL AGE**
 
 ## ****Freshman Year Seminar (SEMN-101-01)****
-## ****Syllabus, Fall Quarter 2019**
+## **Syllabus, Fall Quarter 2019**
 
 MWF 11:55AM - 01:10PM, Dewing Hall, Room 304
 Professor: Dimitris C. Papadopoulos
