@@ -1,1 +1,9 @@
-# sites-of-protest
+# Dissent: Sites of Protest in the Digital Age. Course Syllabus. 
+
+### Course info
+
+Freshman Year Seminar (SEMN-101-01), Fall Quarter 2019, Kalamazoo College
+
+### Course description
+
+Dissent, in its different forms, has shaped history and continues to claim ground for theory and action, in increasingly urgent ways, in the digital age. New technologies of surveillance, discrimination, and oppression emerge and digitally enabled injustices and forms of violence and inequality, (re-) appear often continuing past legacies of colonialism and exploitation. At the same time, new sites and platforms for subversive voices and practices are created and imagined in response. In this course, we will map these forms and spaces of oppression, violence, and inequality, but also the emerging sites of protest, resistance, and disobedience. In doing so we will think about the condition - as both a mode of thinking and praxis- of being a dissident and its new dangers and possibilities in our globalized world. From the Arab Spring to the Black Lives Matter movement and from Standing Rock to refugee camps in Europe we will explore different sites and case studies to talk about, among other things, data, software and surveillance, hashtags and digital protest, new forms of activism, solidarity, and mobilization, the "digital subaltern", feminist, anti-racist, anti-colonial technologies and indigenous media, or alternative, counter-cartographies of neighborhoods and cities. We will engage with theoretical texts but also experiment with digital tools as a means of exploring critical concepts but also their real-life complexities and implications. By the end of the class, we will reach a deeper understanding of different forms of dissent and disobedience and a good basis from which to think critically about digital spaces and cultures. No prior knowledge or experience with coding, software or digital tools is required.
